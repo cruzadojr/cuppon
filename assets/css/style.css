@@ -1,0 +1,60 @@
+    
+.text-white {
+    color: #ffffff; 
+    font-family: 'Roboto', sans-serif;
+}
+
+.tarjetas{
+    border: none;
+}
+.card{
+    width: 100%;
+    border: 2px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px; 
+}
+.list-group-item .fas{
+    margin-right: 10px;
+
+}
+.second-price {
+    color: green;
+    margin-left: 20px;
+}
+.valo{
+    margin-left: 30%;
+}
+
+h5{
+    color: white;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-center1{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+}
+.text-center{
+    text-align: center;
+    padding-left: 48%;
+    font-family: 'Roboto', sans-serif;
+}
+.custom-btn {
+    background-color: white; 
+    color: black;
+    padding: 3px 6px; 
+    border: 2px solid white;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: auto;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    text-align: center;
+    margin: 30px;
+    font-family: 'Roboto', sans-serif;
+}
